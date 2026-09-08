@@ -1,6 +1,6 @@
 {
-  "version": "1.0.1",
-  "downloadUrl": "https://github.com/Stormxtz-eng/storm-updates/releases/download/v1.0.1/ProjectStorm.zip",
-  "sha256": "4AD2F22AA4BF66765FCBE99A37DE0D1AACEFDB0C873339BFBF597983522DC9A5",
-  "notes": "Nova atualização do Storm Panel."
+  "version": "1.0.0",
+  "downloadUrl": "https://github.com/Stormxtz-eng/storm-updates/releases/download/v1.0.0/ProjectStorm-1.0.0.zip",
+  "sha256": "8CBEF283640036C2052946CE6644593F30786FC151A5FFF9CCD3AAB1AA92B369",
+  "notes": "Primeira versão estável do Project Storm."
 }
