@@ -1,6 +1,6 @@
 {
   "version": "1.0.4",
-  "downloadUrl": "https://github.com/Stormxtz-eng/storm-updates/releases/download/v1.0.4/ProjectStorm-1.0.4-final.zip",
-  "sha256": "EF743B4F7EB8C403E39F8B054F59073B3891BAFA7087F1C4B561AC87EE453899",
-  "notes": "Project Storm 1.0.4: segurança reforçada, atualizador mais seguro e organização interna aprimorada."
+  "downloadUrl": "https://github.com/Stormxtz-eng/storm-updates/releases/download/v1.0.4/ProjectStorm-1.0.4.zip",
+  "sha256": "04D780316F1E87ADAA8B4B74B197E7F400DB91B29BC528F8BE95E2EEE6AAC019",
+  "notes": "Project Storm 1.0.4: identificação de monitores corrigida, resolução e Hz separados, saturação por tela e restauração automática ao expirar a key."
 }
