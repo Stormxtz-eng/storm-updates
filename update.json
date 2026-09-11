@@ -1,6 +1,6 @@
 {
-  "version": "1.0.8",
-  "downloadUrl": "https://github.com/Stormxtz-eng/storm-updates/releases/download/v1.0.8/ProjectStorm-1.0.8.zip",
-  "sha256": "B8274C32A1E0233BAD246F411EFD73CD00BC530553B8060BF1446503151F4617",
-  "notes": "Correção da verificação anti-tamper assinada."
+  "version": "1.0.9",
+  "downloadUrl": "https://github.com/Stormxtz-eng/storm-updates/releases/download/v1.0.9/ProjectStorm-1.0.9.zip",
+  "sha256": "A1D419A6DB02409FE4B4103637E17CE5F549B9AC8FCB6B3FE660827F8F252B24",
+  "notes": "Project Storm 1.0.9: correção da saturação NVIDIA no monitor T23D310."
 }
