@@ -1,6 +1,6 @@
 {
-  "version": "1.0.7",
-  "downloadUrl": "https://github.com/Stormxtz-eng/storm-updates/releases/download/v1.0.7/ProjectStorm-1.0.7.zip",
-  "sha256": "BAD44F5457E0AF83D79F8DED2EA57F93CCA3DAF98F4B1D4BA0960FCAB82832F4",
-  "notes": "Proteção anti-tamper, licenças assinadas e modo offline seguro de até 72 horas."
+  "version": "1.0.8",
+  "downloadUrl": "https://github.com/Stormxtz-eng/storm-updates/releases/download/v1.0.8/ProjectStorm-1.0.8.zip",
+  "sha256": "B8274C32A1E0233BAD246F411EFD73CD00BC530553B8060BF1446503151F4617",
+  "notes": "Correção da verificação anti-tamper assinada."
 }
