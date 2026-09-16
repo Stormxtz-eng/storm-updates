@@ -1,6 +1,6 @@
 {
-  "version": "1.1.0",
-  "downloadUrl": "https://github.com/Stormxtz-eng/storm-updates/releases/download/v1.1.0/ProjectStorm-1.1.0.zip",
-  "sha256": "5A4FCEA7C2C6DA2A6C7F7E50DBB38AC867CEC37CC685C0D0B6D362308E679AE1",
-  "notes": "Project Storm 1.1.0: ."
+  "version": "1.1.2",
+  "downloadUrl": "https://github.com/Stormxtz-eng/storm-updates/releases/download/v1.1.2/ProjectStorm-1.1.2.zip",
+  "sha256": "7DD4850F51604C0CB49BA7CC25FCA60182114137036C054CD3F319E9C543EF51",
+  "notes": "Project Storm 1.1.2: atualização assinada, proteção de integridade e verificação contínua de licença."
 }
