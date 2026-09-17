@@ -1,6 +1,6 @@
 {
-  "version": "1.1.2",
-  "downloadUrl": "https://github.com/Stormxtz-eng/storm-updates/releases/download/v1.1.2/ProjectStorm-1.1.2.zip",
-  "sha256": "7DD4850F51604C0CB49BA7CC25FCA60182114137036C054CD3F319E9C543EF51",
-  "notes": "Project Storm 1.1.2: atualização assinada, proteção de integridade e verificação contínua de licença."
+  "version": "1.1.3",
+  "downloadUrl": "https://github.com/Stormxtz-eng/storm-updates/releases/download/v1.1.3/ProjectStorm-1.1.3.zip",
+  "sha256": "195D6C2057D3A092194BC1EE99DE5DFE6EB26A033756363FCA4EA4B0C1AE22ED",
+  "notes": "Project Storm 1.1.3: keys Beta podem liberar o Frame Gen com permissão assinada pelo servidor."
 }
