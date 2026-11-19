@@ -1,6 +1,6 @@
 {
-  "version": "1.1.5",
-  "downloadUrl": "https://github.com/Stormxtz-eng/storm-updates/releases/download/v1.1.5/Project-Storm-1.1.5-seguranca.zip",
-  "sha256": "72BB01D2FAB25714D69960E1FE373F330C2A4D0CB4D053DDB2702416BBA7F70F",
-  "notes": "Project Storm 1.1.5: Frame Gen mais fluido e com menos artefatos, melhorias de estabilidade e segurança da licença."
+  "version": "2.0.0.0",
+  "downloadUrl": "https://github.com/Stormxtz-eng/storm-updates/releases/download/v2.0/Project-Storm-2.0.zip",
+  "sha256": "C276C778D2D2482399526206AF45EAABC0A5A797D7FCD2EE4736C62DF8CBB581",
+  "notes": "Project Storm 2.0: Mira fixa com presets, presets de monitor e lista de Hz simplificada. O Frame Gen foi removido."
 }
